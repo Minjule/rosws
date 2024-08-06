@@ -1,2 +1,2 @@
 # rosws
-diplom resporitory containing ros workspace 
+diplom repository containing ros workspace 
